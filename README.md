@@ -1,0 +1,2 @@
+# PB7Z020C
+This is an FPGA SOM based on AMD/XILINX ZYNQ7000.
